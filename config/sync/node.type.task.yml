@@ -1,0 +1,17 @@
+uuid: 7b2c3ac5-7bdc-47dd-9619-f4c6c8bd73b4
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Task
+type: task
+description: 'Used project tasks.'
+help: ''
+new_revision: false
+preview_mode: 0
+display_submitted: false
